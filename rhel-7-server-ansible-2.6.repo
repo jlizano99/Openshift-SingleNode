@@ -1,0 +1,11 @@
+[local-rhel-7-server-ansible-2.6-rpms]
+
+metadata_expire =-1
+
+baseurl =file:///root/RedHat/ocp311/ppa/rhel-7-server-ansible-2.6-rpms
+
+name = rhel-7-server-ansible-2.6-rpms
+
+enabled = 1
+
+gpgcheck = 0

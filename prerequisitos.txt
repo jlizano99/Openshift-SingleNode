@@ -1,0 +1,5 @@
+- Contar con un servidor DNS funcional
+- Probar los repositorios locales que se encuentran en las carpetas repos.
+- Contar con los instaladores descargados de IBM llamados: IBM_RED_HAT_OPENSHIFT_3.11_ENGLIS.tgz con el número de parte: CC3KEEN
+- Instalar git, vim, nano, net-tools y hacer yum update -y
+- Despues de eso podemos ejecutar el script

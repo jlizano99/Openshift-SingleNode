@@ -1,0 +1,6 @@
+[rhel-7-server-ose-3.11-rpms]
+baseurl = file:///root/RedHat/ocp311/ppa/rhel-7-server-ose-3.11-rpms
+enabled = 1
+metadata_expire = -1
+name = rhel-7-server-ose-3.11-rpms
+gpgcheck = 0
